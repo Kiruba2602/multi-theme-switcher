@@ -1,4 +1,4 @@
-# Multi-Theme Switcher React App - Kirubakarn - React Front-End Developer
+# Multi-Theme Switcher React App - Kirubakaran - React Front-End Developer
 
 A responsive React + TypeScript web application featuring a multi-theme switcher with three distinct themes, routing, product API integration, and animated transitions.
 
@@ -31,7 +31,8 @@ A responsive React + TypeScript web application featuring a multi-theme switcher
 
 ## Folder Structure
 
-multi-theme-switcher-[YourName]/ # Root directory
+### Root directory
+```
 ├── public/
 │ └── index.html # HTML entry with Google Fonts linked
 ├── src/
@@ -51,8 +52,7 @@ multi-theme-switcher-[YourName]/ # Root directory
 ├── tsconfig.json # TypeScript configuration
 ├── README.md # This documentation file
 └── .gitignore # Files to ignore in version control
-
-text
+```
 
 ---
 
@@ -60,30 +60,28 @@ text
 
 ### 1. Clone the repository:
 
-git clone https://github.com/yourusername/multi-theme-switcher-[YourFullName]-frontend.git
-cd multi-theme-switcher-[YourFullName]-frontend
+git clone https://github.com/kiruba2602/multi-theme-switcher.git
+cd multi-theme-switcher
 
-text
+---
 
 ### 2. Install dependencies:
 
 npm install
 
-text
+---
 
 ### 3. Run the development server:
 
 npm run dev
 
-text
-
 The app should open at http://localhost:5173 (or another specified port).
+
+---
 
 ### 4. Build for production:
 
 npm run build
-
-text
 
 This generates an optimized build in the `/dist` folder, ready for deployment.
 
@@ -119,6 +117,7 @@ This generates an optimized build in the `/dist` folder, ready for deployment.
 - All API data displayed has safe escape handling.
 - Project is modular with reusable and well-commented components.
 
+---
 
 ## Test Credentials
 
