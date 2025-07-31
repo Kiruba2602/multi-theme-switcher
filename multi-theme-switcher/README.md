@@ -6,7 +6,7 @@ A responsive React + TypeScript web application featuring a multi-theme switcher
 
 ## Live Demo
 
-[Add your live deployment URL here, e.g. https://your-app.vercel.app]
+https://kiruba2602.github.io/multi-theme-switcher
 
 ---
 
